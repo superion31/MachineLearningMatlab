@@ -2,7 +2,7 @@
 
 ## About 
 
-#### In this repo Machine Learning algorithms are approached using different methods. The goal is to examine whether the final outcome is affected or not. For that purpose plots of the final results for each technique are compared.
+#### In this repo you can see different implementation approaches of some Machine Learning algorithms. The goal is to examine whether the final outcome is affected or not. For the evaluation, plots of the final results for each technique are compared.
 
 ## Supervised Learning
 
