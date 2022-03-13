@@ -10,7 +10,7 @@
 ####
 - built-in *fitlm*
 - built-in *regress*
--Stohastic Gradient Descent
+- Stohastic Gradient Descent
 
 ### Multivariate Linear Regression
 ####
