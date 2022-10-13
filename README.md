@@ -1,4 +1,4 @@
-# Matlab_ML
+# Machine Learning - Matlab
 
 ## About 
 
